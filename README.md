@@ -2,4 +2,6 @@
 
 made this because i can't figure out how gtfs fares works sob
 
+hosted: https://engine.justusewheels.com/fares/ [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/296mf.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 credit: https://github.com/LOOHP/HK-KMB-Calculator
